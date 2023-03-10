@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning React naitve.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
 - 💬 Ask me about **Reactjs**
 
 - 📫 How to reach me **rahultdpz143@gmail.com**
