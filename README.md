@@ -5,9 +5,9 @@
 </a>
 
 - 👨‍💻 I’m currently working as a Freelancer building web and software solutions
-- 
+  
 - 💻 I specialize in React.js, Next.js, and full-stack development (NestJS + PostgreSQL)
-- 
+  
 - 💬 Ask me about React.js, full-stack architecture, and real-world project building
 
 - 📫 How to reach me **rahultdpz143@gmail.com**
